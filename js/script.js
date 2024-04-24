@@ -9,7 +9,7 @@ const randomNumber = Math.floor(Math.random() * 6) + 1
  * This function checks if thge user has selected the random number from above
  */
 
-function checkNumber() {
+function myButtonClicked() {
   // input
   const userNumber = parseInt(document.getElementById("rng-guess").value)
 
