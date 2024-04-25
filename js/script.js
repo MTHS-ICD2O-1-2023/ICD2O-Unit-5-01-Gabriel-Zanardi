@@ -1,6 +1,6 @@
 // Copyright (c) 2020 Mr. Coxall All rights reserved
 //
-// Created by: Apr 2024
+// Created by: Gabriel
 // This file contains the JS functions for index.html
 
 const randomNumber = Math.floor(Math.random() * 6) + 1
